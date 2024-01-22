@@ -19,4 +19,3 @@ I'm a Frontend Developer, with a passion for crafting seamless user experience a
 ---
 
 
-| ------------- | ------------- |
